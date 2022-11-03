@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<h3>Things I code with</h3>
+<div align=center><h1>📚 SKILLS</h1></div>
+
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
