@@ -1,8 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=YEEUN%20LEE&fontSize=60" />
           
-### Backend Developer 👩🏼‍💻
+## Backend Developer 👩🏼‍💻
 
-<div align=center><h1>📚 SKILLS</h1></div>
+## Introduction
+안녕하세요! 새로움이 반가운 개발자 이예은입니다.
+
+새로운 기술을 배우는데 두려움이 없고 배운 내용을 공유하는 것을 좋아합니다.
+
+개발을 통해 문제 해결 능력을 기르기 위해 노력합니다.
+
+어떻게, 그리고 얼마나 성장해왔는지 뒤돌아보기 위해 새로 알게 된것을 github와 notion에 기록합니다.
+
+<div><h3>📚 SKILLS</h3></div>
 
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
