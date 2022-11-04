@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=YEEUN%20LEE&fontSize=60" />
+          
+### Backend Developer 👩🏼‍💻
 
 <div align=center><h1>📚 SKILLS</h1></div>
 
