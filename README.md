@@ -44,6 +44,8 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
           
   ![YEEUNLEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=euni00&show_icons=true&theme=tokyonight)
+          
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euni00&layout=compact&theme=tokyonight)
  
 </p>
 <!--
