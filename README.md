@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=YEEUN%20LEE&fontSize=60" />
           
-## Backend Developer 👩🏼‍💻
+## Frontend Developer 👩🏼‍💻
 
 ## Introduction
 안녕하세요! 새로움이 반가운 개발자 이예은입니다.
