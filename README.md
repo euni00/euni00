@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=YEEUN%20LEE&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=devlee&fontSize=60" />
           
 ## Frontend Developer 👩🏼‍💻
 
